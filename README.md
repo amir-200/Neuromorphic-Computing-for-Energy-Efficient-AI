@@ -43,16 +43,10 @@ This project explores the potential of SNNs as a low-power alternative to FFNNs 
   - matplotlib
   - numpy
 
-```bash
-pip install -r requirements.txt
 
 🧪 How to Run
 
 Clone the repo:
-
-bash
-Copy
-Edit
 git clone https://github.com/<your-org>/Neuromorphic-AI.git
 cd Neuromorphic-AI
 
