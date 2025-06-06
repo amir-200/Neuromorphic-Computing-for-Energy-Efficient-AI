@@ -20,8 +20,8 @@ Neuromorphic Computing for Energy-Efficient AI is a comparative project that dem
 
 **[Mayuri Sonawane](github.com/mayuri-2930)**
 
-* Email: 
-
+* Email: [mayu.112308@gmail.com]
+(mailto:mayu.112308@gmail.com) 
 
 ---
 
